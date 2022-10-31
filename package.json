@@ -1,7 +1,7 @@
 {
   "name": "my-lib",
   "version": "0.1.0",
-  "description": "",
+  "description": "A test lib distributed to npm",
   "main": "./dist/my-lib.js",
   "module": "./dist/my-lib.esm.js",
   "umd": "./dist/my-lib.umd.js",
@@ -13,7 +13,7 @@
     "test": "jest --verbose",
     "test-c": "jest --coverage"
   },
-  "author": "",
+  "author": "Carl-Rabbit <calrabbit0721@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.19.6",
